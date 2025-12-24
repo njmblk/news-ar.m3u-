@@ -1,0 +1,51 @@
+#EXTM3U
+
+########## MOROCCO TV ##########
+
+#EXTINF:-1 tvg-name="Al Aoula" group-title="Morocco",Al Aoula
+
+#EXTINF:-1 tvg-name="2M Maroc" group-title="Morocco",2M Maroc
+
+#EXTINF:-1 tvg-name="Arryadia" group-title="Morocco",Arryadia
+
+#EXTINF:-1 tvg-name="Medi 1 TV" group-title="Morocco",Medi 1 TV
+
+#EXTINF:-1 tvg-name="Tamazight TV" group-title="Morocco",Tamazight TV
+
+#EXTINF:-1 tvg-name="Assadissa" group-title="Morocco",Assadissa
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Laayoune TV" group-title="Morocco",Laayoune TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+
+########## ARABIC NEWS ##########
+
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-name="Al Jazeera العربية" group-title="News",Al Jazeera العربية
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="News",Al Jazeera (Alt)
+https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" group-title="News",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" group-title="News",Al Jazeera Mubasher 2
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-name="Al Arabiya العربية" group-title="News",Al Arabiya العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-name="Sky News العربية" group-title="News",Sky News العربية
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 tvg-name="Al Hadath" group-title="News",Al Hadath
+
+#EXTINF:-1 tvg-name="France 24 Arabic" group-title="News",France 24 Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
+#EXTINF:-1 tvg-name="Al Mayadeen" group-title="News",Al Mayadeen
+
+#EXTINF:-1 tvg-name="Asharq News" group-title="News",Asharq News
+
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="News",BBC Arabic
