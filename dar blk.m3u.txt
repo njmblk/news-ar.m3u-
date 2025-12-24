@@ -1,0 +1,56 @@
+#EXTM3U
+
+########## MOROCCO TV ##########
+#EXTINF:-1 tvg-name="Al Aoula" group-title="Morocco",Al Aoula
+
+
+#EXTINF:-1 tvg-name="2M Maroc" group-title="Morocco",2M Maroc
+
+
+#EXTINF:-1 tvg-name="Arryadia" group-title="Morocco",Arryadia
+
+
+#EXTINF:-1 tvg-name="Medi 1 TV" group-title="Morocco",Medi 1 TV
+
+
+#EXTINF:-1 tvg-name="Tamazight TV" group-title="Morocco",Tamazight TV
+
+
+#EXTINF:-1 tvg-name="Assadissa" group-title="Morocco",nabawiya 
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Laayoune TV" group-title="Morocco",quran 
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+########## ARABIC NEWS ##########
+#EXTINF:-1 tvg-name="Al Jazeera Arabic" group-title="News",Al Jazeera hd Arabic
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera
+https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera mubasher 2
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Arabiya" group-title="News",Al Arabiya
+
+
+#EXTINF:-1 tvg-name="Sky News Arabia" group-title="News",Sky News Arabia
+
+
+#EXTINF:-1 tvg-name="Al Hadath" group-title="News",Al Hadath
+
+
+#EXTINF:-1 tvg-name="France 24 Arabic" group-title="News",France 24 Arabic
+
+
+#EXTINF:-1 tvg-name="Al Mayadeen" group-title="News",Al Mayadeen
+
+
+#EXTINF:-1 tvg-name="Asharq News" group-title="News",Asharq News
+
+
+#EXTINF:-1 tvg-name="BBC Arabic" group-title="News",BBC Arabic
